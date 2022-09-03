@@ -1,0 +1,8 @@
+Austin  about.html
+Ayo     contact.html
+Peter   faq.html
+David   product.html
+Mary    board.html
+Mayowa  testimonies.html
+Kenny   team.html
+Alabi   assessement.html

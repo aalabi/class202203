@@ -42,7 +42,7 @@
 
 .header .nav_slider {
     background-image: url(./images/training.jpeg);
-    height: 5px;
+    height: 10vh;
     width: 100vw;
     background-repeat: no-repeat;
     background-size:cover;

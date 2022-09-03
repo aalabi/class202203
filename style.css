@@ -41,7 +41,7 @@
 }
 
 .header .nav_slider {
-    background-image: url(../images/airport.jpg);
+    background-image: url(./images/airport.jpg);
     height: 36vh;
     width: 100vw;
     background-repeat: no-repeat;
@@ -90,25 +90,25 @@
 }
 
 .aboutus_box.box1 {
-    background-image: url(../images/passport_bag.jpg);
+    background-image: url(images/passport_bag.jpg);
     background-repeat: no-repeat;
     background-size:cover;
 }
 
 .aboutus_box.box2 {
-    background-image: url(../images/passport_user.jpg);
+    background-image: url(images/passport_user.jpg);
     background-repeat: no-repeat;
     background-size:cover;
 }
 
 .aboutus_box.box3 {
-    background-image: url(../images/us_passport.png);
+    background-image: url(images/us_passport.png);
     background-repeat: no-repeat;
     background-size:cover;
 }
 
 .aboutus_box.box4 {
-    background-image: url(../images/luggage_passport.jpg);
+    background-image: url(images/luggage_passport.jpg);
     background-repeat: no-repeat;
     background-size:cover;
 }
